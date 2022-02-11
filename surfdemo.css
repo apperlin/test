@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container{
+	position:relative;
+}
+
+.bottomright {
+	position:absolute;
+	bottom: 8px;
+	right: 20px;
+	font-size: 18px;
+}
+
+img {
+	width: 100%;
+	
+}.logo {
+	position: fixed;
+    left: 50px;
+    top: 50px;
+}
